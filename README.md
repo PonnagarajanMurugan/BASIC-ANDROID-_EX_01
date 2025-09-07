@@ -1,11 +1,6 @@
 ## BASIC-ANDROID-_EX_01_Implementation of a Hello world Activity using all lifecycles methods using Android Studio.
 ## PROGRAM
 
-DEVELOPED BY : Pon Nagarajan M
-
-REGISTER NO: 212222040115
-
-
 ## AIM:
 
 To create Hello world Activity using all lifecycles methods to display messages using android studio.
